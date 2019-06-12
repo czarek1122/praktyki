@@ -1,0 +1,4 @@
+2018-07-20 11:43:11.0004|ERROR|ConsoleApp3.LogHelper|
+2018-07-20 11:43:19.0197|ERROR|ConsoleApp3.LogHelper|
+2018-07-20 11:43:30.8245|ERROR|ConsoleApp3.LogHelper|
+2018-07-20 13:19:08.9342|ERROR|ConsoleApp3.LogHelper|

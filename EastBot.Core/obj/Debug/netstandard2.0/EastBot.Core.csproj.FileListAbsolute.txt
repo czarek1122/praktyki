@@ -1,0 +1,15 @@
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Core\bin\Debug\netstandard2.0\EastBot.Core.deps.json
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Core\bin\Debug\netstandard2.0\EastBot.Core.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Core\bin\Debug\netstandard2.0\EastBot.Core.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Core\bin\Debug\netstandard2.0\Eastbot.Objects.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Core\bin\Debug\netstandard2.0\Eastbot.Objects.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Core\obj\Debug\netstandard2.0\EastBot.Core.csprojAssemblyReference.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Core\obj\Debug\netstandard2.0\EastBot.Core.csproj.CoreCompileInputs.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Core\obj\Debug\netstandard2.0\EastBot.Core.AssemblyInfoInputs.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Core\obj\Debug\netstandard2.0\EastBot.Core.AssemblyInfo.cs
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Core\obj\Debug\netstandard2.0\EastBot.Core.csproj.CopyComplete
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Core\obj\Debug\netstandard2.0\EastBot.Core.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Core\obj\Debug\netstandard2.0\EastBot.Core.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\bin\Debug\netstandard2.0\EastBot.Core.deps.json
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\bin\Debug\netstandard2.0\EastBot.Core.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\bin\Debug\netstandard2.0\EastBot.Core.pdb
