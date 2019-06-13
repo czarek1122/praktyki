@@ -1,0 +1,12 @@
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\Eastbot.Objects\bin\Debug\netstandard2.0\Eastbot.Objects.deps.json
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\Eastbot.Objects\bin\Debug\netstandard2.0\Eastbot.Objects.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\Eastbot.Objects\obj\Debug\netstandard2.0\Eastbot.Objects.csprojAssemblyReference.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\Eastbot.Objects\obj\Debug\netstandard2.0\Eastbot.Objects.csproj.CoreCompileInputs.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\Eastbot.Objects\obj\Debug\netstandard2.0\Eastbot.Objects.AssemblyInfoInputs.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\Eastbot.Objects\obj\Debug\netstandard2.0\Eastbot.Objects.AssemblyInfo.cs
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\Eastbot.Objects\bin\Debug\netstandard2.0\Eastbot.Objects.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\Eastbot.Objects\obj\Debug\netstandard2.0\Eastbot.Objects.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\Eastbot.Objects\obj\Debug\netstandard2.0\Eastbot.Objects.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\bin\Debug\netstandard2.0\Eastbot.Objects.deps.json
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\bin\Debug\netstandard2.0\Eastbot.Objects.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\bin\Debug\netstandard2.0\Eastbot.Objects.pdb

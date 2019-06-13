@@ -1,0 +1,6 @@
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\XmlConfig\bin\Debug\netstandard2.0\XmlConfig.deps.json
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\XmlConfig\bin\Debug\netstandard2.0\XmlConfig.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\XmlConfig\obj\Debug\netstandard2.0\XmlConfig.csprojAssemblyReference.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\XmlConfig\obj\Debug\netstandard2.0\XmlConfig.csproj.CoreCompileInputs.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\XmlConfig\obj\Debug\netstandard2.0\XmlConfig.AssemblyInfoInputs.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\XmlConfig\obj\Debug\netstandard2.0\XmlConfig.AssemblyInfo.cs

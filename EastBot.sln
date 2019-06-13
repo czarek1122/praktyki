@@ -1,0 +1,115 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EastBot.WebStart", "EastBot.WebStart\EastBot.WebStart.csproj", "{D4310E0C-73C3-478D-AB82-B5BE215AD036}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eastbot.Objects", "Eastbot.Objects\Eastbot.Objects.csproj", "{29988810-50D4-4048-A577-B3D6713F9D32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EastBot.Core", "EastBot.Core\EastBot.Core.csproj", "{EFB8F171-9BF5-4964-81D4-9497660B1957}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EastBot.Modules.Menu", "EastBot.Modules.Menu\EastBot.Modules.Menu.csproj", "{DCC8FF68-2086-4856-B0F9-25A12E1A54BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EastBot.Modules.Test", "EastBot.Modules.Test\EastBot.Modules.Test.csproj", "{A126BE16-F8D4-4518-8061-BD4FF6A3ACCC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EastBot.Modules.MopidyMusic", "EastBot.Modules.MopidyMusic\EastBot.Modules.MopidyMusic.csproj", "{5067D8B1-6A42-4478-87C0-9F9D19A08037}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EastBot.Modules.Welcome", "EastBot.Modules.Welcome\EastBot.Modules.Welcome.csproj", "{E6806CCD-B39F-4B35-91CC-5CFFC5B4539F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EastBot.Modules.Weather", "EastBot.Modules.Weather\EastBot.Modules.Weather.csproj", "{6144B1BB-8A75-4569-A6DD-3BB6FE05D608}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eastbot.XmlConfig", "EastBot.XmlConfig\Eastbot.XmlConfig.csproj", "{438EB96D-B1DD-4DCF-86BA-3E788BE68570}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EastBot.Modules.Translator", "EastBot.Modules.Translator\EastBot.Modules.Translator.csproj", "{4CAFC549-BDC8-4E44-B475-330C00C7FE41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4310E0C-73C3-478D-AB82-B5BE215AD036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4310E0C-73C3-478D-AB82-B5BE215AD036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4310E0C-73C3-478D-AB82-B5BE215AD036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4310E0C-73C3-478D-AB82-B5BE215AD036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29988810-50D4-4048-A577-B3D6713F9D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29988810-50D4-4048-A577-B3D6713F9D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29988810-50D4-4048-A577-B3D6713F9D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29988810-50D4-4048-A577-B3D6713F9D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFB8F171-9BF5-4964-81D4-9497660B1957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB8F171-9BF5-4964-81D4-9497660B1957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB8F171-9BF5-4964-81D4-9497660B1957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB8F171-9BF5-4964-81D4-9497660B1957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC8FF68-2086-4856-B0F9-25A12E1A54BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC8FF68-2086-4856-B0F9-25A12E1A54BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC8FF68-2086-4856-B0F9-25A12E1A54BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC8FF68-2086-4856-B0F9-25A12E1A54BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A126BE16-F8D4-4518-8061-BD4FF6A3ACCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A126BE16-F8D4-4518-8061-BD4FF6A3ACCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A126BE16-F8D4-4518-8061-BD4FF6A3ACCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A126BE16-F8D4-4518-8061-BD4FF6A3ACCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5067D8B1-6A42-4478-87C0-9F9D19A08037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5067D8B1-6A42-4478-87C0-9F9D19A08037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5067D8B1-6A42-4478-87C0-9F9D19A08037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5067D8B1-6A42-4478-87C0-9F9D19A08037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6806CCD-B39F-4B35-91CC-5CFFC5B4539F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6806CCD-B39F-4B35-91CC-5CFFC5B4539F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6806CCD-B39F-4B35-91CC-5CFFC5B4539F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6806CCD-B39F-4B35-91CC-5CFFC5B4539F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6144B1BB-8A75-4569-A6DD-3BB6FE05D608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6144B1BB-8A75-4569-A6DD-3BB6FE05D608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6144B1BB-8A75-4569-A6DD-3BB6FE05D608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6144B1BB-8A75-4569-A6DD-3BB6FE05D608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438EB96D-B1DD-4DCF-86BA-3E788BE68570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438EB96D-B1DD-4DCF-86BA-3E788BE68570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438EB96D-B1DD-4DCF-86BA-3E788BE68570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438EB96D-B1DD-4DCF-86BA-3E788BE68570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CAFC549-BDC8-4E44-B475-330C00C7FE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAFC549-BDC8-4E44-B475-330C00C7FE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAFC549-BDC8-4E44-B475-330C00C7FE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAFC549-BDC8-4E44-B475-330C00C7FE41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {922BC1E0-8251-4D7D-8771-B6C5CDCEFCD3}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://server02/eastsoft
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EastBot.WebStart\\EastBot.WebStart.csproj
+		SccProjectName1 = EastBot.WebStart
+		SccLocalPath1 = EastBot.WebStart
+		SccProjectUniqueName2 = Eastbot.Objects\\Eastbot.Objects.csproj
+		SccProjectName2 = Eastbot.Objects
+		SccLocalPath2 = Eastbot.Objects
+		SccProjectUniqueName3 = EastBot.Core\\EastBot.Core.csproj
+		SccProjectName3 = EastBot.Core
+		SccLocalPath3 = EastBot.Core
+		SccProjectUniqueName4 = EastBot.Modules.Menu\\EastBot.Modules.Menu.csproj
+		SccProjectName4 = EastBot.Modules.Menu
+		SccLocalPath4 = EastBot.Modules.Menu
+		SccProjectUniqueName5 = EastBot.Modules.Test\\EastBot.Modules.Test.csproj
+		SccProjectName5 = EastBot.Modules.Test
+		SccLocalPath5 = EastBot.Modules.Test
+		SccProjectUniqueName6 = EastBot.Modules.MopidyMusic\\EastBot.Modules.MopidyMusic.csproj
+		SccProjectName6 = EastBot.Modules.MopidyMusic
+		SccLocalPath6 = EastBot.Modules.MopidyMusic
+		SccProjectUniqueName7 = EastBot.Modules.Welcome\\EastBot.Modules.Welcome.csproj
+		SccProjectName7 = EastBot.Modules.Welcome
+		SccLocalPath7 = EastBot.Modules.Welcome
+		SccProjectUniqueName8 = EastBot.Modules.Weather\\EastBot.Modules.Weather.csproj
+		SccProjectName8 = EastBot.Modules.Weather
+		SccLocalPath8 = EastBot.Modules.Weather
+		SccProjectUniqueName9 = EastBot.XmlConfig\\Eastbot.XmlConfig.csproj
+		SccProjectName9 = EastBot.XmlConfig
+		SccLocalPath9 = EastBot.XmlConfig
+		SccProjectUniqueName10 = EastBot.Modules.Translator\\EastBot.Modules.Translator.csproj
+		SccProjectName10 = EastBot.Modules.Translator
+		SccLocalPath10 = EastBot.Modules.Translator
+	EndGlobalSection
+EndGlobal
