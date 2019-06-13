@@ -1,0 +1,14 @@
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\bin\Debug\netstandard2.0\EastBot.Modules.MopidySecond.deps.json
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\bin\Debug\netstandard2.0\EastBot.Modules.MopidySecond.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\obj\Debug\netstandard2.0\EastBot.Modules.MopidySecond.csprojAssemblyReference.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\obj\Debug\netstandard2.0\EastBot.Modules.MopidySecond.csproj.CoreCompileInputs.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\obj\Debug\netstandard2.0\EastBot.Modules.MopidySecond.AssemblyInfoInputs.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\obj\Debug\netstandard2.0\EastBot.Modules.MopidySecond.AssemblyInfo.cs
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\bin\Debug\netstandard2.0\EastBot.Modules.MopidySecond.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\bin\Debug\netstandard2.0\EastBot.Core.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\bin\Debug\netstandard2.0\Eastbot.Objects.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\bin\Debug\netstandard2.0\EastBot.Core.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\bin\Debug\netstandard2.0\Eastbot.Objects.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\obj\Debug\netstandard2.0\EastBot.Modules.MopidySecond.csproj.CopyComplete
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\obj\Debug\netstandard2.0\EastBot.Modules.MopidySecond.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\obj\Debug\netstandard2.0\EastBot.Modules.MopidySecond.pdb

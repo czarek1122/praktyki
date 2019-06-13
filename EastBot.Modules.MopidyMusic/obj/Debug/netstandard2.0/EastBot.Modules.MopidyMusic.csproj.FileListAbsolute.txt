@@ -1,0 +1,16 @@
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\bin\Debug\netstandard2.0\EastBot.Modules.MopidyMusic.deps.json
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\bin\Debug\netstandard2.0\EastBot.Modules.MopidyMusic.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\bin\Debug\netstandard2.0\EastBot.Modules.MopidyMusic.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\bin\Debug\netstandard2.0\EastBot.Core.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\bin\Debug\netstandard2.0\Eastbot.Objects.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\bin\Debug\netstandard2.0\EastBot.Core.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\bin\Debug\netstandard2.0\Eastbot.Objects.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\obj\Debug\netstandard2.0\EastBot.Modules.MopidyMusic.csproj.CoreCompileInputs.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\obj\Debug\netstandard2.0\EastBot.Modules.MopidyMusic.AssemblyInfoInputs.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\obj\Debug\netstandard2.0\EastBot.Modules.MopidyMusic.AssemblyInfo.cs
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\obj\Debug\netstandard2.0\EastBot.Modules.MopidyMusic.csproj.CopyComplete
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\obj\Debug\netstandard2.0\EastBot.Modules.MopidyMusic.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.MopidySecond\obj\Debug\netstandard2.0\EastBot.Modules.MopidyMusic.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\bin\Debug\netstandard2.0\EastBot.Modules.MopidyMusic.deps.json
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\bin\Debug\netstandard2.0\EastBot.Modules.MopidyMusic.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\bin\Debug\netstandard2.0\EastBot.Modules.MopidyMusic.pdb
