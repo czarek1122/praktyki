@@ -1,0 +1,14 @@
+F:\Projekty\Praktyki\EastBot\EastBot\bin\Debug\NLog.config
+F:\Projekty\Praktyki\EastBot\EastBot\bin\Debug\eastbot.config
+F:\Projekty\Praktyki\EastBot\EastBot\bin\Debug\EastBot.WebStart.deps.json
+F:\Projekty\Praktyki\EastBot\EastBot\bin\Debug\EastBot.WebStart.runtimeconfig.json
+F:\Projekty\Praktyki\EastBot\EastBot\bin\Debug\EastBot.WebStart.runtimeconfig.dev.json
+F:\Projekty\Praktyki\EastBot\EastBot\bin\Debug\EastBot.WebStart.dll
+F:\Projekty\Praktyki\EastBot\EastBot\bin\Debug\EastBot.WebStart.pdb
+F:\Projekty\Praktyki\EastBot\EastBot\EastBot.WebStart\obj\Debug\EastBot.WebStart.csprojAssemblyReference.cache
+F:\Projekty\Praktyki\EastBot\EastBot\EastBot.WebStart\obj\Debug\EastBot.WebStart.csproj.CoreCompileInputs.cache
+F:\Projekty\Praktyki\EastBot\EastBot\EastBot.WebStart\obj\Debug\EastBot.WebStart.AssemblyInfoInputs.cache
+F:\Projekty\Praktyki\EastBot\EastBot\EastBot.WebStart\obj\Debug\EastBot.WebStart.AssemblyInfo.cs
+F:\Projekty\Praktyki\EastBot\EastBot\EastBot.WebStart\obj\Debug\EastBot.WebStart.csproj.CopyComplete
+F:\Projekty\Praktyki\EastBot\EastBot\EastBot.WebStart\obj\Debug\EastBot.WebStart.dll
+F:\Projekty\Praktyki\EastBot\EastBot\EastBot.WebStart\obj\Debug\EastBot.WebStart.pdb
