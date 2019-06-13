@@ -1,0 +1,16 @@
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.Weather\bin\Debug\netstandard2.0\EastBot.Modules.Weather.deps.json
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.Weather\bin\Debug\netstandard2.0\EastBot.Modules.Weather.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.Weather\bin\Debug\netstandard2.0\EastBot.Modules.Weather.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.Weather\bin\Debug\netstandard2.0\EastBot.Core.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.Weather\bin\Debug\netstandard2.0\Eastbot.Objects.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.Weather\bin\Debug\netstandard2.0\EastBot.Core.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.Weather\bin\Debug\netstandard2.0\Eastbot.Objects.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.Weather\obj\Debug\netstandard2.0\EastBot.Modules.Weather.csproj.CoreCompileInputs.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.Weather\obj\Debug\netstandard2.0\EastBot.Modules.Weather.AssemblyInfoInputs.cache
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.Weather\obj\Debug\netstandard2.0\EastBot.Modules.Weather.AssemblyInfo.cs
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.Weather\obj\Debug\netstandard2.0\EastBot.Modules.Weather.csproj.CopyComplete
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.Weather\obj\Debug\netstandard2.0\EastBot.Modules.Weather.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\EastBot.Modules.Weather\obj\Debug\netstandard2.0\EastBot.Modules.Weather.pdb
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\bin\Debug\netstandard2.0\EastBot.Modules.Weather.deps.json
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\bin\Debug\netstandard2.0\EastBot.Modules.Weather.dll
+F:\Projekty\Praktyki\Mattermost\ConsoleApp3\bin\Debug\netstandard2.0\EastBot.Modules.Weather.pdb
